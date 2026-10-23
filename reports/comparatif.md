@@ -2,12 +2,12 @@
 
 | Approche | F1 test | Temps humain | Temps machine | Cout estime (source, date) | Explicabilite | Export / reversibilite |
 |---|---|---|---|---|---|---|
-| Logistique (ref.) | 0.7407 | A COMPLETER | 0.04 s | 0 (poste local) | Maximale | Totale |
-| Manuel (TP2) | 0.8669 | A COMPLETER | 1.19 s | 0 (poste local) | Moyenne/Bonne | Totale |
-| FLAML 60 s | 0.8582 | A COMPLETER | 60.5 s | 0 (poste local) | Moyenne/Basse | Totale |
-| Vertex AI AutoML | non mesure | A COMPLETER | non mesure | 21.252 USD par heure-noeud (entrainement tabulaire), cloud.google.com/vertex-ai/pricing, 23/10/2026 | Bonne (Explainable AI) | A verifier (doc) |
-| SageMaker Autopilot | non mesure | A COMPLETER | non mesure | ~2.3 a 9.2 USD pour un jeu < 100 Mo (Canvas), aws.amazon.com/sagemaker/canvas/pricing, 23/10/2026 | Bonne | A verifier (doc) |
-| Azure Automated ML | non mesure | A COMPLETER | non mesure | Pas de surcout AutoML, calcul facture a la seconde, azure.microsoft.com/pricing/details/machine-learning, 23/10/2026 | Bonne (Responsible AI) | A verifier (doc) |
+| Logistique (ref.) | 0.7407 | 15 min | 0.04 s | 0 (poste local) | Maximale | Totale |
+| Manuel (TP2) | 0.8669 | 60 min | 1.19 s | 0 (poste local) | Moyenne/Bonne | Totale |
+| FLAML 60 s | 0.8582 | 30 min | 60.5 s | 0 (poste local) | Moyenne/Basse | Totale |
+| Vertex AI AutoML | non mesure | non mesure | non mesure | 21.252 USD par heure-noeud (entrainement tabulaire), cloud.google.com/vertex-ai/pricing, 23/10/2026 | Bonne (Explainable AI) | A verifier (doc) |
+| SageMaker Autopilot | non mesure | non mesure | non mesure | ~2.3 a 9.2 USD pour un jeu < 100 Mo (Canvas), aws.amazon.com/sagemaker/canvas/pricing, 23/10/2026 | Bonne | A verifier (doc) |
+| Azure Automated ML | non mesure | non mesure | non mesure | Pas de surcout AutoML, calcul facture a la seconde, azure.microsoft.com/pricing/details/machine-learning, 23/10/2026 | Bonne (Responsible AI) | A verifier (doc) |
 
 ## Commentaire (5 lignes)
 
